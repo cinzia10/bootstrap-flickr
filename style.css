@@ -1,0 +1,16 @@
+.centered{
+    object-fit: cover;
+    object-position: center center;
+    height: calc(100vh - 56px);
+}
+
+html, body{
+    height: 100%;
+    background-color: crimson;
+}
+
+.div-background{
+    background-color: rgba(0, 0, 0, 0.255);
+    border-radius: 12px;
+    
+}
